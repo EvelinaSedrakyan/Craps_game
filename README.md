@@ -1,5 +1,4 @@
-# 🎲 Craps Game (Python)
-
+#Craps Game 
 Simple Craps game in Python. Roll two dice and see if you win or lose
 
 ## Features
